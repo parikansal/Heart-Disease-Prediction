@@ -1,7 +1,6 @@
-# Heart-Disease-Prediction
-This is my ml project to predict the heart diseases.
+# 💓 Heart Disease Prediction App
 <br>
-Author - Pari Kansal
+## Author - Pari Kansal
 
 <br>
 
