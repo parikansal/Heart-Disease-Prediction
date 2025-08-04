@@ -32,7 +32,8 @@ The objective of this project is to predict the likelihood of heart disease in p
    git clone https://github.com/your-username/heart-disease-prediction.git
    cd heart-disease-prediction
 
-##Folder Structure
+## Folder Structure
+
 heart-disease-prediction/
 │
 ├── app.py                 # Main Streamlit app
