@@ -31,3 +31,14 @@ The objective of this project is to predict the likelihood of heart disease in p
    ```bash
    git clone https://github.com/your-username/heart-disease-prediction.git
    cd heart-disease-prediction
+
+##Folder Structure
+heart-disease-prediction/
+│
+├── app.py                 # Main Streamlit app
+├── models/
+│   ├── heart_disease_model.pkl  # Trained ML model
+│   └── scaler.pkl         # Fitted StandardScaler
+├── dataset/               # (Optional) Raw or cleaned data
+├── README.md              # Project documentation
+└── requirements.txt       # List of dependencies
