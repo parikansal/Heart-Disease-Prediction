@@ -22,3 +22,12 @@ The objective of this project is to predict the likelihood of heart disease in p
 - scikit-learn
 - Streamlit
 - joblib
+
+
+## How to Run the App Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/heart-disease-prediction.git
+   cd heart-disease-prediction
