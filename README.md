@@ -1,2 +1,3 @@
 # Heart-Disease-Prediction
-This my my ml project to predict the heart diseases
+This is my ml project to predict the heart diseases
+Author - Pari Kansal
