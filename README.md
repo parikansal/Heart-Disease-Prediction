@@ -14,3 +14,11 @@ The objective of this project is to predict the likelihood of heart disease in p
 - Uses a trained machine learning model and scaler
 - User-friendly input form
 - Displays prediction result in real-time
+
+## Technologies Used
+
+- Python
+- pandas
+- scikit-learn
+- Streamlit
+- joblib
